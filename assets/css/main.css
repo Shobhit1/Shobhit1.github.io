@@ -170,31 +170,19 @@
 
 /* BG */
 
-	#wrapper {
-		-moz-backface-visibility: hidden;
-		-webkit-backface-visibility: hidden;
-		-ms-backface-visibility: hidden;
-		backface-visibility: hidden;
-		-moz-transform: translate3d(0,0,0);
-		-webkit-transform: translate3d(0,0,0);
-		-ms-transform: translate3d(0,0,0);
-		transform: translate3d(0,0,0);
-
-		background: linear-gradient(316deg, #96281B, #446CB3, #2C3E50 ,#D91E18);
+	#main {
+		background: linear-gradient(165deg, #22313F, #019875, #96281B, #913D88, #2C3E50 ,#D91E18);
+		background-size: 600% 600%;
+		display: flex;
 		align-items: center;
 		flex-direction: column;
 		height: 100%;
 		justify-content: center;
-		position: relative;
-
-		-webkit-animation: gradientShift 18s ease infinite;
-		-moz-animation: gradientShift 18s ease infinite;
-		animation: gradientShift 18s ease infinite;
+		-webkit-animation: gradientShift 20s ease infinite;
+		-moz-animation: gradientShift 20s ease infinite;
+		animation: gradientShift 20s ease infinite;
 		height: 100%;
-		left: 0;
-		opacity: 1;
-		position: fixed;
-		top: 0;
+		position: relative;;
 	}
 	/* animations */
 	@-webkit-keyframes gradientShift {
@@ -277,11 +265,6 @@
 		}
 	}
 
-	#bg {
-		/*background-size: 2250px auto;*/
-		/*width: 6750px;*/
-	}
-
 /* Overlay */
 
 	@-moz-keyframes overlay {
@@ -324,26 +307,8 @@
 		}
 	}
 
-	#overlay {
-		-moz-animation: overlay 1.5s 1.5s forwards;
-		-webkit-animation: overlay 1.5s 1.5s forwards;
-		-ms-animation: overlay 1.5s 1.5s forwards;
-		animation: overlay 1.5s 1.5s forwards;
-		background-attachment: fixed, fixed;
-		background-image: url("images/overlay-pattern.png"), url("images/overlay.svg");
-		background-position: top left, center center;
-		background-repeat: repeat, no-repeat;
-		background-size: auto, cover;
-		height: 100%;
-		left: 0;
-		opacity: 0;
-		position: fixed;
-		top: 0;
-		width: 100%;
-	}
-
 /* Main */
-
+/*
 	#main {
 		height: 100%;
 		left: 0;
@@ -360,7 +325,7 @@
 			margin-right: 0;
 			vertical-align: middle;
 			width: 1px;
-		}
+		}*/
 
 /* Header */
 
