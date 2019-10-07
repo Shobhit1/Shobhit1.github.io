@@ -6,12 +6,11 @@ repository: Shobhit1/Shobhit1.github.io
 name: Shobhit Agarwal
 title: Software Engineer II
 email: shobhit657@gmail.com
-website: www.github.com/Shobhit1
+website: sagarwal.xyz
 
 # Social links
 twitter_username: shob2811
 github_username: Shobhit1
-instagram_username: hottogobox
 linkedin_username: shobhit28
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -22,7 +21,7 @@ linkedin_username: shobhit28
 about_profile_image: images/profile_shobhit.jpg
 about_content: | # this will include new lines to allow paragraphs
     Hi, my name's Shobhit and I'm a software engineer at [Microsoft](https://github.com/microsoft) working on [Accessibility Insights](https://accessibilityinsights.io)
-    I am most skilled in: <mark>Javascript</mark> and <mark>Analyzing Liverpool FC games</mark>
+        I am most skilled in: <mark>Javascript</mark> and <mark>Analyzing Liverpool FC games</mark>
 
 # Projects Section
 # projects_title: Projects
