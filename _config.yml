@@ -21,23 +21,24 @@ linkedin_username: shobhit28
 about_profile_image: images/profile_shobhit.jpg
 about_content: | # this will include new lines to allow paragraphs
     Hi, my name's Shobhit and I'm a software engineer at [Microsoft](https://github.com/microsoft) working on [Accessibility Insights](https://accessibilityinsights.io)
-        I am most skilled in: <mark>Javascript</mark> and <mark>Analyzing Liverpool FC games</mark>
+
+    I am most skilled in: <mark>Javascript</mark> and <mark>Web Development</mark>
 
 # Projects Section
 # projects_title: Projects
 
-# Experience Section
+# Experience Section:
 # experience_title: Experience
 
-# Education Section
+# Education Section:
 # educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-     - FIFA on XBOX
-     - Hiking around PNW
+     - Gaming, especially FIFA
+     - Hiking around Seattle area
 
 # Footer
 footer_show_references: false

@@ -1,9 +1,51 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+- company: Microsoft
+  link: microsoft.com
+  jobs:
+      - title: Software Engineer II
+        dates: December 2017 - Present
+  description: |
+      ##### Accessibility Insights [<i class="fa fa-github inline-github-icon" title="Accessibility Insights Github link"></i>](https://github.com/microsoft/accessibility-insights-web)
+
+      * Working on making life easier for millions of web users with disabilities.
+      * Building tools for web & windows developers to check and fix accessibility for a web page before those issues hit production.
+      * Free and open source, building on the open source [axe-core](https://github.com/dequelabs/axe-core) engine
+
+      ##### Service Desk
+
+      * Improved Microsoft’s help desk (service desk) UIs and interfaces to improve the experience for all the agents helping millions of Microsoft customers
+      * Built specialized UX that provided insights and analytics for managers while also helping them maintain efficiency in managing their agents.
+
+- layout: left
+- company: Copart
+  link: copart.com
+  jobs:
+      - title: Technical Lead
+        dates: July 2017 - November 2017
+      - title: Software Engineer
+        dates: Aug 2016 – Jul 2017
+      - title: Front End Developer Intern
+        dates: May 2015 – Aug 2016
+  description: |
+      ##### Copart Yard/Ops Portal
+
+      * Led the development of an internal SPA for Copart yard employees, served in multiple countries, that replaced Mainframe based systems held at the company for more than 25 years
+      * Worked on creating a library/SDK of simple and complex React components, to be shared across multiple application teams inside Copart
+      * Led efforts for the company to shift from licensed software towards OSS
+      * Mentored multiple interns and other new employees
+
+      ##### Copart Seller Mobile Application [<i class="fa fa-github inline-github-icon" title="Copart Seller"></i>](https://play.google.com/store/apps/details?id=com.copart.seller.mobile&hl=en_US)
+
+      * Built iOS and Android app for Copart Sellers making the life of our Seller Executives easier by keeping them up to date with various key points and values of lots assigned to Copart
+      * Helped thousands of Copart Sellers to stay on top of their growth, engagement, and business with Copart, on-the-go.
+
+- layout: left
+- company: Infosys Limited
+  link: infosys.com
+  jobs:
+      - title: Senior Systems Engineer
+        dates: Sep 2011 - July 2014
+  description: |
+      ##### Unilever Asia and Africa Divison
+      * Supported Unilever Asia & Africa's SAP-ABAP group by writing reports and programs that helped the company implement it supply chain effectively.
+      * Optimized a lot of archaic manual tasks by creating automations using SAP-ABAP reports.
