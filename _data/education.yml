@@ -2,10 +2,12 @@
   name: University of Texas at Dallas
   dates: 2014- 2016
   qualification: MS Computer Science
+  quote: >
+      "Engineering is central to the mission of UT Dallas, which is committed to be a global leader in innovative, high quality science, engineering, and business education and research."
   description: Master's in Computer Science with Specialization in Data Science
 
 - layout: left
   name: Dehradun Institute of Technology
   dates: 2007 - 2011
   qualification: B.Tech Computer Science
-  description: Bachelor of technology in computer science. Undergrad Degree from Dehradun, India.
+  description: Undergraduate Degree (B.Tech, equaivalent to BSc in US) in Computer Science from Dehradun, India.
