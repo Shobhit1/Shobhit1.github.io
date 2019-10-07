@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: Shobhit1/Shobhit1.github.io
 # favicon: images/favicon.ico
 
 # Personal info
@@ -52,3 +52,5 @@ sass:
 
 plugins:
     - jekyll-seo-tag
+
+theme: jekyll-theme-tactile
